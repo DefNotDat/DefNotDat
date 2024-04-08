@@ -12,5 +12,5 @@ If you're looking for my main account: @DatGamerboi101
  - Programming
     - python
  - Comp Sci
- - mechatronics and electromechanics
  - Networking 
+ - mechatronics and electromechanics
