@@ -5,7 +5,7 @@
 </div>
 
 This is my School account for when I'm at school
-If you're looking for my main account: @DatGamerboi101
+If you're looking for my main account: [@DatGamerboi101](https://github.com/DatGamerboi101)
 
 # What am I studying?
 
