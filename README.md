@@ -13,5 +13,4 @@ If you're looking for my main account: [@DatGamerboi101](https://github.com/DatG
  - Programming
     - python
  - Comp Sci
- - Networking 
- - mechatronics and electromechanics
+ - Networking
